@@ -3,11 +3,11 @@
 
 A simple yet powerful **AI-powered Virtual Drawing Board** built using **OpenCV** and **MediaPipe**.  
 It allows users to draw in the air using their **fingers**, perfect for **online classes, interactive sessions, or fun experiments**.  
-No stylus or touch screen needed — just a **webcam** and **your hand!**
+No stylus or touch screen needed , just a **webcam** and **your hand!**
 
 ---
 
-## 🌟 Project Highlights
+##  Project Highlights
 
 ✅ Draw in real-time using your index finger  
 ✅ Color selection options (Red, Green, Blue)  
@@ -56,7 +56,7 @@ python main.py
 ```
 
 The webcam window will open.
-Move your index finger in front of the camera — and start drawing!
+Move your index finger in front of the camera , and start drawing!
 
 ---
 
@@ -116,8 +116,7 @@ You’re free to use, modify, and share it for educational purposes.
 ## 👨‍💻 Author
 
 **Dheepak G**
+
 AI & Robotics Enthusiast | Innovator | Developer
 
-* PDF guide
 
-So you can upload directly to GitHub and share it instantly?
