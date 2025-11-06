@@ -115,8 +115,8 @@ You’re free to use, modify, and share it for educational purposes.
 
 ## 👨‍💻 Author
 
-**Dheepak G**
+**DHEEPAK G**
 
-AI & Robotics Enthusiast | Innovator | Developer
+*AI & Robotics Enthusiast | Innovator | Developer*
 
 
