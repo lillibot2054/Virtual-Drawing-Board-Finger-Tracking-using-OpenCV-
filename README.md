@@ -1,7 +1,5 @@
- **README.md** (Full Professional Version)
 
-```markdown
-#  Virtual Drawing Board (Finger Tracking using OpenCV)
+  Virtual Drawing Board (Finger Tracking using OpenCV)
 
 A simple yet powerful **AI-powered Virtual Drawing Board** built using **OpenCV** and **MediaPipe**.  
 It allows users to draw in the air using their **fingers**, perfect for **online classes, interactive sessions, or fun experiments**.  
