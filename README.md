@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Virtual Drawing Board Banner" width="100%" />
+</p>
+
+# Virtual Drawing Board
 
   Virtual Drawing Board (Finger Tracking using OpenCV)
 
